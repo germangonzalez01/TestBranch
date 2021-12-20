@@ -6,3 +6,7 @@
 REPORT ZTEST_BRANCH01.
 
 * inicial
+*<<<<<<< Branch01
+include ZTEST_BRANCH02.
+*=======
+*>>>>>>> main
